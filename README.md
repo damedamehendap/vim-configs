@@ -1,2 +1,2 @@
-# nvim-configs
+# vim-configs
 #neivimでパチパチせっせとタイプして書き上げたプラグインのファイルやらなんやらを
